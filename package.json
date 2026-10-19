@@ -1,0 +1,27 @@
+{
+  "name": "dod-contract",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "description": "Turn a task into an immutable definition of done with verifiable acceptance criteria.",
+  "main": "dod-contract.js",
+  "exports": {
+    ".": "./dod-contract.js"
+  },
+  "files": [
+    "dod-contract.js",
+    "README.md",
+    "LICENSE",
+    "package.json"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "agents",
+    "reliability",
+    "verification",
+    "dod-contract"
+  ],
+  "license": "MIT"
+}
